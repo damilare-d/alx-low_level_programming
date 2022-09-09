@@ -7,6 +7,11 @@
 
 
 /* betty style doc for function main goes there */
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 
@@ -27,7 +32,7 @@ else if (n == 0)
 }
 else
 {
-	printf("%i is negative", n);
+	printf("%i is negative\n", n);
 }
 return (0);
 
