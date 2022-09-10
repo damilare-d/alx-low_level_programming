@@ -3,7 +3,7 @@
 
 /**
  * main - mainBlock
- * Description:a program to print alphabets 
+ * Description: a program to print alphabets 
  * Return: 0
  */
 
