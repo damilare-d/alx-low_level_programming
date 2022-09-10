@@ -1,12 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 /**
  * main - mainBlock
  * Description: a program to print alphabets 
  * Return: 0
  */
-
 int main(void)
 {
 char c = 'a';
