@@ -3,8 +3,8 @@
 
 /**
  * main - mainBlock
- * Description: 
- * Return 0
+ * Description:a program to print alphabets 
+ * Return: 0
  */
 
 int main(void)
