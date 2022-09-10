@@ -36,7 +36,7 @@ int main(void)
 			{
 				putchar(f_d);
 				putchar(l_d);
-				putchar(' ')
+				putchar(' ');
 				putchar(f_d2);
 				putchar(l_d2);
 
