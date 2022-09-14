@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_times_table - Entry functioon
  * @n: n times table
