@@ -1,4 +1,4 @@
-#iclude "main.h"
+#include "main.h"
 /**
  * print_sign - Entry function
  * @n: Character for sign
@@ -8,7 +8,7 @@ int print_sign(int n)
 {
 	if (n < 0)
 	{
-		_putchaar('-');
+		_putchar('-');
 		return (-1);
 	}
 	else if (n > 0)
