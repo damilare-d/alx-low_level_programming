@@ -15,8 +15,8 @@ int _abs(int c)
 		p = c * -1;
 	}
 	else
-	{ 
+	{
 		p = c;
-	}	
+	}
 	return (p);
 }
