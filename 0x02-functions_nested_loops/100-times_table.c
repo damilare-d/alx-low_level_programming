@@ -5,14 +5,13 @@
  * @n: n times table
  * Result: Always 0 or 1.
  */
-
 void print_times_table(int n)
 {
 	int a = 0, rep, b;
 
 	if (n < 0 || n > 15)
 	{
-		return;
+	return;
 	}
 	while (a <= n)
 	{
@@ -50,7 +49,5 @@ void print_times_table(int n)
 		}
 		_putchar('\n');
 		a++;
-
 	}
-
 }
