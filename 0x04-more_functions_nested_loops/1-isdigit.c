@@ -4,6 +4,7 @@
  * @c: character
  * Retutn: Always 0 or 1
  */
+
 int _isdigit(int c)
 {
 	if (c > 47 && c <= 57)
