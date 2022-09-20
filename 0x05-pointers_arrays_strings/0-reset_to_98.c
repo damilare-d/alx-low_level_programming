@@ -1,4 +1,4 @@
-#include "nain.h"
+#include "main.h"
 /**
  * reset_to_98 - Entry function
  * @n: point to int variable type
